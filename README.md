@@ -2,7 +2,7 @@
 
 An Android browser by **Lunarium Studio**, featuring a customizable interface and tracking protection.
 
-**Version: 2.1.3 · Android 8.0 or later**
+**Version: 2.1.4 · Android 8.0 or later**
 
 [Download Tuman](https://github.com/IvanDocenko/Tuman/releases)
 
@@ -33,9 +33,9 @@ The current 2.1.3 build is intended for testing and is signed with a debug key.
 
 ## Official Resources
 
-- **Studio website:** link coming later.
-- **GitHub link within the app:** coming in version 2.1.4.
-- **Telegram:** link coming in version 2.1.4.
+- **Studio website:** https://lunariumstudio.space
+- **GitHub link within the app:** Added to the app
+- **Telegram:** https://t.me/LunarOnlin
 
 ## Third-Party Components
 
