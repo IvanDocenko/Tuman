@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tuman.browser.data.UrlPolicyTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-23T15:53:38.850Z" hostname="ivan-ThinkBook-16-G7-ARP" time="0.009">
+  <properties/>
+  <testcase name="internationalDomainIsNormalized" classname="com.tuman.browser.data.UrlPolicyTest" time="0.001"/>
+  <testcase name="homePageRejectsCredentialsAndUnsafeSchemes" classname="com.tuman.browser.data.UrlPolicyTest" time="0.0"/>
+  <testcase name="externalSchemesAreDenied" classname="com.tuman.browser.data.UrlPolicyTest" time="0.001"/>
+  <testcase name="searchQueryCannotInjectParameters" classname="com.tuman.browser.data.UrlPolicyTest" time="0.001"/>
+  <testcase name="cleartextInputIsUpgraded" classname="com.tuman.browser.data.UrlPolicyTest" time="0.0"/>
+  <testcase name="pastedJavascriptNeverExecutes" classname="com.tuman.browser.data.UrlPolicyTest" time="0.001"/>
+  <testcase name="encodedPathIsNotDoubleEncoded" classname="com.tuman.browser.data.UrlPolicyTest" time="0.0"/>
+  <testcase name="emptyInputOpensLocalHome" classname="com.tuman.browser.data.UrlPolicyTest" time="0.001"/>
+  <testcase name="domainBecomesHttps" classname="com.tuman.browser.data.UrlPolicyTest" time="0.001"/>
+  <testcase name="hostAndPortAreSupported" classname="com.tuman.browser.data.UrlPolicyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

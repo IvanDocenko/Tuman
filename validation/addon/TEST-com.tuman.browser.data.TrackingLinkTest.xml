@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tuman.browser.data.TrackingLinkTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-23T20:34:29.492Z" hostname="ivan-ThinkBook-16-G7-ARP" time="0.005">
+  <properties/>
+  <testcase name="normalAddressesRemainUntouched" classname="com.tuman.browser.data.TrackingLinkTest" time="0.0"/>
+  <testcase name="switchControlsNavigation" classname="com.tuman.browser.data.TrackingLinkTest" time="0.002"/>
+  <testcase name="removesOnlyTrackingParameters" classname="com.tuman.browser.data.TrackingLinkTest" time="0.002"/>
+  <testcase name="removesQueryMarkerWhenNothingRemains" classname="com.tuman.browser.data.TrackingLinkTest" time="0.0"/>
+  <testcase name="fragmentTextIsNotTreatedAsQuery" classname="com.tuman.browser.data.TrackingLinkTest" time="0.001"/>
+  <testcase name="namesAreDecodedAndCaseInsensitive" classname="com.tuman.browser.data.TrackingLinkTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

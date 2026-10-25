@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tuman.browser.data.SearchPreferencesTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-24T20:32:47.997Z" hostname="ivan-ThinkBook-16-G7-ARP" time="0.002">
+  <properties/>
+  <testcase name="russianRetainsYandex" classname="com.tuman.browser.data.SearchPreferencesTest" time="0.0"/>
+  <testcase name="englishDoesNotOfferYandex" classname="com.tuman.browser.data.SearchPreferencesTest" time="0.001"/>
+  <testcase name="removedBingMigratesToVisibleDefault" classname="com.tuman.browser.data.SearchPreferencesTest" time="0.0"/>
+  <testcase name="customSurvivesLanguageChange" classname="com.tuman.browser.data.SearchPreferencesTest" time="0.0"/>
+  <testcase name="russianOffersYandex" classname="com.tuman.browser.data.SearchPreferencesTest" time="0.0"/>
+  <testcase name="effectiveSearchUsesVisibleProvider" classname="com.tuman.browser.data.SearchPreferencesTest" time="0.0"/>
+  <testcase name="switchingToEnglishDropsYandex" classname="com.tuman.browser.data.SearchPreferencesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

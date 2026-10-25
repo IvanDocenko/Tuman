@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tuman.build.PermissionGuardsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-23T20:20:21.717Z" hostname="ivan-ThinkBook-16-G7-ARP" time="0.035">
+  <properties/>
+  <testcase name="changedGeckoSignaturesFailTheBuild" classname="com.tuman.build.PermissionGuardsTest" time="0.011"/>
+  <testcase name="grantedPermissionPreservesOriginalBehavior" classname="com.tuman.build.PermissionGuardsTest" time="0.015"/>
+  <testcase name="missingPermissionNeverCallsRestrictedBody" classname="com.tuman.build.PermissionGuardsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+PASS COOKIE OFF
+PASS MEDIA BLOCKED NotAllowedError
+PASS COOKIE ON
+PASS MEDIA PLAYED
+PASS MEDIA BLOCKED NotAllowedError
+PASS autoplay cached grant revoked after re-enabling block
+PASS incoming URL strips utm_source, preserves keep=yes and fragment
+PASS animations off: fog background is pixel-identical across two seconds
+PASS animations on: fog moves; average RGB pixel difference [0.9078935185185185, 0.9653240740740741, 1.1510416666666667]
+PASS welcome replay returns to existing About screen
+PASS live Mozilla tracking test shield count 6

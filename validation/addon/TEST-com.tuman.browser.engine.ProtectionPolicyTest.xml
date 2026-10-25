@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tuman.browser.engine.ProtectionPolicyTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-23T20:34:29.507Z" hostname="ivan-ThinkBook-16-G7-ARP" time="0.002">
+  <properties/>
+  <testcase name="shieldsCanBeIndividuallyDisabled" classname="com.tuman.browser.engine.ProtectionPolicyTest" time="0.001"/>
+  <testcase name="strictIsolatesCookiesByDefault" classname="com.tuman.browser.engine.ProtectionPolicyTest" time="0.0"/>
+  <testcase name="javascriptChoiceIsRetainedAcrossProfiles" classname="com.tuman.browser.engine.ProtectionPolicyTest" time="0.0"/>
+  <testcase name="strongerProfileCannotBeWeakenedByCookiePicker" classname="com.tuman.browser.engine.ProtectionPolicyTest" time="0.0"/>
+  <testcase name="blockingAllCookiesTakesPriority" classname="com.tuman.browser.engine.ProtectionPolicyTest" time="0.001"/>
+  <testcase name="maximumOverridesDisabledShields" classname="com.tuman.browser.engine.ProtectionPolicyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

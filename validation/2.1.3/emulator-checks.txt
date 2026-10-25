@@ -1,0 +1,24 @@
+PASS toolbarPlacement = TOP
+PASS address bar moves to top with one tap
+PASS toolbarPlacement = BOTTOM
+PASS address bar returns to bottom
+PASS URL tap selects all; replacement opens in same tab without adding a tab
+PASS author names displayed
+PASS official resources have requested availability messages
+PASS offline English privacy policy opens
+PASS canceling default-browser request keeps Chrome
+PASS system grants browser role; Tuman status updates
+PASS Choose another default browser restores Chrome through Android settings
+PASS Tuman refreshes default-browser status after returning from Android settings
+PASS language = RU
+PASS searchEngine = YANDEX
+PASS language = EN
+PASS searchEngine = DUCKDUCKGO
+PASS English search menu excludes Bing and Yandex; changing language replaces selected Yandex with DuckDuckGo
+PASS Russian privacy policy and requested tester label visible
+PASS welcome choice saves and applies top address bar
+PASS animations = False
+PASS animations = True
+PASS animation switch works in Russian UI
+PASS final APK restarts with saved top toolbar and Russian language
+PASS final About shows Tuman 2.1.3

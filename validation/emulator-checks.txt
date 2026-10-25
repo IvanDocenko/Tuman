@@ -1,0 +1,57 @@
+PASS theme = LIGHT
+PASS theme = DARK
+PASS showClock = False
+PASS showShortcuts = False
+PASS showTagline = False
+PASS ambientFog = False
+PASS tabPlacement = TOP
+PASS tabPlacement = HIDDEN
+PASS hideToolbar = False
+PASS animations = False
+PASS intro = False
+PASS searchEngine = BING
+PASS searchEngine = CUSTOM
+PASS customSearchName = Example search
+PASS customSearchTemplate = https://www.google.com/search?q={query}
+PASS desktopMode = True
+PASS webTheme = DARK
+PASS sleepMinutes = 0
+PASS protection = HARDENED
+PASS protection = MAXIMUM
+PASS javascript = False
+PASS safeBrowsing = False
+PASS allowPopups = True
+PASS About: version and unassigned credits
+PASS language = EN
+PASS desktopMode = True
+PASS searchEngine = CUSTOM
+PASS showClock = True
+PASS animations = False
+PASS relaunch after settings changes
+PASS searchEngine = CUSTOM
+PASS customSearchName = Example search
+PASS custom search opens encoded query URL
+PASS restoreTabs = False
+PASS disabling restore deletes encrypted saved session
+PASS restart without restoration opens one fresh tab
+PASS Gecko browsing-data clear callback succeeds
+PASS theme = DARK
+PASS language = EN
+PASS searchEngine = DUCKDUCKGO
+PASS javascript = True
+PASS safeBrowsing = True
+PASS allowPopups = False
+PASS desktopMode = False
+PASS restoreTabs = True
+PASS intro = True
+PASS animations = True
+PASS reset restores defaults and keeps language
+PASS interface text scale applies and persists
+PASS javascript = False
+PASS JavaScript switch stops script execution on an actual HTTPS page
+PASS re-enabling JavaScript reloads and executes the page
+PASS Maximum protection overrides enabled JavaScript
+PASS encrypted restoration retains multiple tabs and active URL
+PASS final APK installed and launched with restored settings
+PASS web content system-bar insets verified visually on final screenshot
+PASS no AndroidRuntime fatal exceptions in emulator log

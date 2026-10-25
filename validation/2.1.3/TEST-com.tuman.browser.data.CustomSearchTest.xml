@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tuman.browser.data.CustomSearchTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-24T20:32:47.918Z" hostname="ivan-ThinkBook-16-G7-ARP" time="0.075">
+  <properties/>
+  <testcase name="defaultCustomTemplateWorks" classname="com.tuman.browser.data.CustomSearchTest" time="0.025"/>
+  <testcase name="templatesRequireExactlyOnePlaceholder" classname="com.tuman.browser.data.CustomSearchTest" time="0.004"/>
+  <testcase name="placeholderMayBeInPath" classname="com.tuman.browser.data.CustomSearchTest" time="0.003"/>
+  <testcase name="normalUrlsBypassCustomSearch" classname="com.tuman.browser.data.CustomSearchTest" time="0.001"/>
+  <testcase name="customSearchEncodesUnicodeAndDelimiters" classname="com.tuman.browser.data.CustomSearchTest" time="0.001"/>
+  <testcase name="templatesRejectUnsafeSchemesAndCredentials" classname="com.tuman.browser.data.CustomSearchTest" time="0.0"/>
+  <testcase name="invalidCustomTemplateFailsInsteadOfLoadingUntrustedScheme" classname="com.tuman.browser.data.CustomSearchTest" time="0.002"/>
+  <testcase name="placeholderCannotChangeHostOrFragment" classname="com.tuman.browser.data.CustomSearchTest" time="0.0"/>
+  <testcase name="internationalCustomHostIsNormalized" classname="com.tuman.browser.data.CustomSearchTest" time="0.032"/>
+  <testcase name="allBuiltInEnginesEncodeQuery" classname="com.tuman.browser.data.CustomSearchTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
