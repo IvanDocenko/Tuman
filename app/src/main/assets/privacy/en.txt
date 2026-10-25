@@ -1,0 +1,46 @@
+# Tuman privacy policy
+
+App version: 2.1.3. Document date: 24 October 2026.
+Developer: Lunarium Studio.
+
+# About this policy
+
+This document describes Tuman 2.1.3 and is available offline. Websites, search engines, network services and Android have their own policies.
+
+# Data on your device
+
+Tuman stores appearance, language, search and protection preferences in app-private storage. When tab restoration is enabled, tab addresses, titles, navigation history and session state are saved in an encrypted local file, with a key managed by Android. Appearance preferences are not encrypted with that key. Data may remain until you clear it, disable tab restoration, reset the relevant preferences or uninstall the app.
+
+Tabs use the engine's private mode. Cookies and private session data support website functionality and are not intended to persist after the process ends. Moving the app to the background does not end the process or erase this data. The engine may also keep service files, cache and protection lists. Private mode does not hide activity from websites, your network operator or the device itself.
+
+Shield counts and blocked resource addresses are processed in memory. They reset when a page loads and are not sent to the developer as a report.
+
+# Network connections and recipients
+
+Opening a website connects your device to that site and its permitted external resources. They receive your IP address, HTTP request information, cookies available to them and information you submit, such as form entries. Each website determines how it handles that information.
+
+Search queries are sent over HTTPS to your selected search engine. A custom search engine receives queries at the address you configure. Avoid entering sensitive information into search if you do not want to share it with that provider.
+
+Tuman uses Cloudflare encrypted DNS at https://mozilla.cloudflare-dns.com/dns-query to resolve website addresses. The provider receives DNS queries and network connection information, including your IP address. Unencrypted DNS fallback is disabled.
+
+The Mozilla GeckoView engine may contact services that update protection lists and check unsafe resources. When unsafe-site protection is enabled, it uses Safe Browsing network mechanisms; request contents depend on the bundled engine version. These services receive network request information. You can disable unsafe-site protection in settings, except in the Maximum profile. This does not disable website loading or all engine service requests.
+
+# Analytics and accounts
+
+Tuman has no app account, Lunarium Studio server synchronization, advertising SDK or analytics SDK. Engine telemetry uploads and automatic crash report submission are disabled in the configuration. This does not mean there are no connections to websites, DNS or protection services. Websites may use their own analytics; blocking depends on your settings and the engine's lists.
+
+# Permissions and choices
+
+The app needs internet access. Website requests for camera, microphone, location and other permissions are denied. Media autoplay has a separate setting. Screenshots and recent-app previews are protected by default; allowing screenshots can expose content in captures or system previews.
+
+Making Tuman the default browser requires your choice in Android. You can switch back through Navigation → Search → Choose another default browser, or Android Settings. Being the default browser does not itself send browsing history to the developer.
+
+# Clearing data, retention and backups
+
+Security → Your data → Clear browsing data closes tabs, deletes the saved session and requests engine data removal, including cookies, website storage and cache. Disabling tab restoration deletes its saved session file. Resetting preferences changes app settings and does not replace clearing website data. Clearing app storage in Android or uninstalling removes local app data; it does not remove external screenshots or information already sent to websites.
+
+Automatic Android app backups are disabled in the manifest. Local protection also depends on your screen lock, Android security and who can access the device. Tuman is not a VPN or a guarantee of anonymity.
+
+# Updates and contact
+
+This policy may change with app updates when browser behavior changes. Its date and app version appear above. Official resources are under About → Official. Contact addresses are not yet published in version 2.1.3: the studio site is coming later, and GitHub and Telegram are planned for 2.1.4.
