@@ -41,7 +41,7 @@ fun OfficialResourcesScreen(onOpenUrl: (String) -> Unit) {
                     Icon(icons[index], null, Modifier.size(30.dp), tint = MaterialTheme.colorScheme.primary)
                     Column(Modifier.weight(1f)) {
                         RevealText(title, style = MaterialTheme.typography.titleMedium)
-                        RevealText(if (available) descriptions[index] else if (index == 0) tr("Link coming later", "Ссылка появится позже") else tr("Link coming in update 2.1.4", "Ссылка появится в обновлении 2.1.4"), style = MaterialTheme.typography.bodySmall)
+                        RevealText(if (available) descriptions[index] else tr("Link unavailable", "Ссылка недоступна"), style = MaterialTheme.typography.bodySmall)
                     }
                     if (available) Icon(Icons.AutoMirrored.Rounded.OpenInNew, null, Modifier.size(20.dp))
                 }

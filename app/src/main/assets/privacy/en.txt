@@ -1,11 +1,11 @@
 # Tuman privacy policy
 
-App version: 2.1.3. Document date: 24 October 2026.
+App version: 2.1.4. Document date: 25 October 2026.
 Developer: Lunarium Studio.
 
 # About this policy
 
-This document describes Tuman 2.1.3 and is available offline. Websites, search engines, network services and Android have their own policies.
+This document describes Tuman 2.1.4 and is available offline. Websites, search engines, network services and Android have their own policies.
 
 # Data on your device
 
@@ -43,4 +43,4 @@ Automatic Android app backups are disabled in the manifest. Local protection als
 
 # Updates and contact
 
-This policy may change with app updates when browser behavior changes. Its date and app version appear above. Official resources are under About → Official. Contact addresses are not yet published in version 2.1.3: the studio site is coming later, and GitHub and Telegram are planned for 2.1.4.
+This policy may change with app updates when browser behavior changes. Its date and app version appear above. Official resources are under About → Official. Studio website: https://lunariumstudio.space. GitHub: https://github.com/IvanDocenko. Telegram: https://t.me/LunarOnlin.
