@@ -24,7 +24,7 @@ An Android browser by **Lunarium Studio**, featuring a customizable interface an
 3. Open the downloaded file.
 4. If prompted by Android, allow installation from this source and confirm installation.
 
-The current 2.1.3 build is intended for testing and is signed with a debug key.
+The current 2.1.4 build is intended for testing and is signed with a debug key.
 
 ## Credits
 
